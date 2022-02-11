@@ -6,7 +6,7 @@ Indian GIS Data: https://github.com/datameet
 
 USA Census Data: https://www2.census.gov/geo/tiger/TIGER2021/STATE/
 
-Packt Repo: https://www2.census.gov/geo/tiger/TIGER2021/STATE/
+Packt Repo: https://github.com/PacktPublishing
 
 Samy Kamkar: https://github.com/samyk - Interesting Read: WebRTC NAT routing
 
