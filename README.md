@@ -29,5 +29,12 @@ Grafana - https://github.com/grafana/grafana
 
 sanic/fastapi - https://github.com/sanic-org/sanic /  https://github.com/tiangolo/fastapi
 
+## Maps Visualisation 
+
+python - folium (uses leaflet and openstreetmap)
+javaScript - leaflet 
+Mapnik
+
+Private Apis - mapbox, googlemaps etc
 
 
