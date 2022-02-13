@@ -31,7 +31,7 @@ sanic/fastapi - https://github.com/sanic-org/sanic /  https://github.com/tiangol
 
 ## Maps Visualisation 
 
-python - folium (uses leaflet and openstreetmap)
+python - folium (uses leaflet and openstreetmap) - https://python-visualization.github.io/folium/quickstart.html
 javaScript - leaflet 
 Mapnik
 
