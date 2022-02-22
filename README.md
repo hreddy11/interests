@@ -38,4 +38,8 @@ Mapnik
 
 Private Apis - mapbox, googlemaps etc
 
+## Azure
+https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/
+
+
 
